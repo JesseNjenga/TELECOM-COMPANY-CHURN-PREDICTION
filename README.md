@@ -1,0 +1,2 @@
+# TELECOM-COMPANY-CHURN-PREDICTION
+In this project, I looked at customer characterictics that were likely to have contributed to them churning. The main features of focus were internet type, total charges, total extra data charges,total long distance charge, offer and number of referals. Additionally, I also looked at other features Online Security,Device Protection Plan,Online backup and Premium Tech Support. The study also focussed more on the existing and churned customers.
